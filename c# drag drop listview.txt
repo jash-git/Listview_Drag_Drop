@@ -1,0 +1,6 @@
+﻿c# drag drop listview
+
+http://blog.xuite.net/iambigd/wretch/151533416-C%23+listview+%E6%8B%96%E6%94%BEitemsS
+
+http://vbcity.com/blogs/xtab/archive/2014/08/29/windows-forms-listview-drag-and-drop-to-copy-items-between-listviews.aspx
+
